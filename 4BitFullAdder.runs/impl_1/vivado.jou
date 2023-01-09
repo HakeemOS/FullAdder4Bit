@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon Jan  9 16:08:17 2023
+# Process ID: 94156
+# Current directory: C:/Users/squid/OneDrive/Documents/Vivado/2022/4BitFullAdder/4BitFullAdder.runs/impl_1
+# Command line: vivado.exe -log fullAdder4Bit_s.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fullAdder4Bit_s.tcl -notrace
+# Log file: C:/Users/squid/OneDrive/Documents/Vivado/2022/4BitFullAdder/4BitFullAdder.runs/impl_1/fullAdder4Bit_s.vdi
+# Journal file: C:/Users/squid/OneDrive/Documents/Vivado/2022/4BitFullAdder/4BitFullAdder.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source fullAdder4Bit_s.tcl -notrace
