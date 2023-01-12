@@ -2,6 +2,6 @@
 *.verilog linguist-detectable=true 
 *.html linguist-detectable=false
 *.tcl linguist-detectable=false
-*.javascript linguist-detectable=false
+*.js linguist-detectable=false
 *.c linguist-detectable=false
 *.shell linguist-detectable=false
